@@ -16,6 +16,7 @@ function multiply(a,b){
 function divide(a,b){
   return (a/b)
 }
+<<<<<<< HEAD
 
 function inc(n){
   return n+=1
@@ -32,3 +33,5 @@ function makeInt(n){
 function preserveDecimal(n){
   return parseFloat(n)
 }
+=======
+>>>>>>> c02ebb6e9300409b2aeb0ab12696f259370f04c9
